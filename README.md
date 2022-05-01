@@ -28,18 +28,3 @@ I've been programming for over 5 years, starting in elementary school, my skills
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
 </p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/adamspera" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/adamtspera" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/adamspera/laundry-lott" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=adamspera&repo=laundry-lott&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/adamspera/ocean-of-plastic" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=adamspera&repo=ocean-of-plastic&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/adamspera/logwrite-npm" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=adamspera&repo=logwrite-npm&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/adamspera/auto-fetch" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=adamspera&repo=auto-fetch&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
