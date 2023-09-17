@@ -4,12 +4,12 @@ Hi 👋 My name is Adam Spera
 Network Engineer & Web Developer
 -------------
 
-I've been programming for over 5 years, starting in elementary school, my skills and knowledge have only grown. Now in college I enjoy creating apps and websites that help people in their communities, while strengthening and learning from my experiences along the way.
+I've been programming for over 7 years, starting in elementary school, and my skills and knowledge have only grown. Now in college, I enjoy creating apps and websites that help people in their communities while strengthening and learning from my experiences.
 
 * 🌍  I'm based in Glenside, PA
 * 🖥️  See my portfolio at [AdamSpera.dev](http://adamspera.dev)
 * ✉️  You can contact me at [adamspera@hotmail.com](mailto:adamspera@hotmail.com)
-* 🚀  I'm currently working on [Greyer Pages for Reconnaissance](http://github.com/AdamSpera/greyer-pages)
+* 🚀  I'm currently working on [Meraki Captive Portal with Cloudflare](http://github.com/AdamSpera/meraki-excap-cloudflare)
 
 ### Skills
 
