@@ -1,8 +1,6 @@
-Hi 👋 My name is Adam Spera
-===========================
+# Hi 👋 My name is Adam Spera
 
-Network Engineer & Web Developer
--------------
+## Network Engineer & Web Developer
 
 I've been programming for over 7 years, starting in elementary school, and my skills and knowledge have only grown. Now in college, I enjoy creating apps and websites that help people in their communities while strengthening and learning from my experiences.
 
@@ -12,6 +10,8 @@ I've been programming for over 7 years, starting in elementary school, and my sk
 * 🚀  I'm currently working on [Meraki Captive Portal with Cloudflare](http://github.com/AdamSpera/meraki-excap-cloudflare)
 
 ### Skills
+
+CCNP Enterprise & DevNet Professional
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
