@@ -1,4 +1,4 @@
-# Hi 👋 My name is Adam Spera
+# Hi, I'm Adam Spera
 
 ## Network Engineer & Web Developer
 
