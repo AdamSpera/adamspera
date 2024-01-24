@@ -7,7 +7,7 @@ I've been programming for over 7 years, starting in elementary school, and my sk
 * 🌍  I'm based in Glenside, PA
 * 🖥️  See my portfolio at [AdamSpera.dev](http://adamspera.dev)
 * ✉️  You can contact me at [adamspera@hotmail.com](mailto:adamspera@hotmail.com)
-* 🚀  I'm currently working on [Meraki Captive Portal with Cloudflare](http://github.com/AdamSpera/meraki-excap-cloudflare)
+* 🚀  I'm currently working on [tehdocs.adamspera.dev](http://github.com/AdamSpera/thedocs.adamspera.dev)
 
 ### Skills
 
