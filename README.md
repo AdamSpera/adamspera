@@ -1,16 +1,14 @@
-# Hi, I'm Adam Spera
+# Adam Spera
 
 ## Network Engineer & Web Developer
-
-I've been programming for over 7 years, starting in elementary school, and my skills and knowledge have only grown. Now in college, I enjoy creating apps and websites that help people in their communities while strengthening and learning from my experiences.
 
 * 🌍  I'm based in Glenside, PA
 * 🖥️  See my portfolio at [AdamSpera.dev](http://adamspera.dev)
 * ✉️  You can contact me at [adamspera@hotmail.com](mailto:adamspera@hotmail.com)
 
-### Skills
+CCNP Enterprise, Data Center, & Automation
 
-CCNP Enterprise & DevNet Professional
+Currently studying for the CCIE Enterprise Infrastructure practical exam.
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
